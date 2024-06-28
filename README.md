@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swathi-d27
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Pursuing my Bachelor's in Computer Application 
+- 👀 I’m interested in Web Development, UI/UX Design, Front End Development and Software Development 
+- 🌱 I'm Recent Graduate [ Bachelor's in Computer Application ]
 
 
 <!---
